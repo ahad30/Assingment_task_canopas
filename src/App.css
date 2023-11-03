@@ -1,0 +1,17 @@
+
+.submit-area{
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px gray;
+
+}
+
+#todos-area{
+  display: none;
+}
+
+.status{
+  margin: 0 20px;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px gray;
+}
